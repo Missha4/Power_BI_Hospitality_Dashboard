@@ -38,7 +38,7 @@ Hospitality Analytics combines sophisticated data transformation and metric calc
 
 ## Snapshot
 
-![Snapshot 1](Hospitality Dashboard Snapshot.png) ![Snapshot 2](tooltip.png)
+![Snapshot 1](Hospitality_Dashboard_Snapshot.png) ![Snapshot 2](tooltip.png)
 
 Feel free to dive into this project and reach out for any questions or collaboration. Thank you for considering my portfolio! 🙌✨
 
