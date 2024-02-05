@@ -6,6 +6,10 @@ Welcome to Hospitality Analytics, a Power BI solution delivering actionable insi
 
 Hospitality Analytics combines sophisticated data transformation and metric calculation to provide in-depth insights for hotels and accommodations.
 
+## Project Snapshot
+
+![Snapshot 1](Hospitality_Dashboard_Snapshot.png) ![Snapshot 2](tooltip.png)
+
 ## Key Metrics and Visualizations
 
 - **Revenue Metrics:** Calculated Revenue, RevPAR, ADR, DSRN, Realization, and Occupancy Percentage.
@@ -35,10 +39,6 @@ Hospitality Analytics combines sophisticated data transformation and metric calc
 - **Explore with Slicers and Filters:**
   - Utilize interactive slicers for City, Room Type, and Week Number to dynamically explore and analyze data.
   - Leverage conditional formatting icons on Week-over-Week Change for a quick visual assessment.
-
-## Snapshot
-
-![Snapshot 1](Hospitality_Dashboard_Snapshot.png) ![Snapshot 2](tooltip.png)
 
 Feel free to dive into this project and reach out for any questions or collaboration. Thank you for considering my portfolio! 🙌✨
 
